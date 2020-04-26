@@ -20,5 +20,5 @@ I've uploaded the Juyter notebook directly from my working directory. To run you
  2. utils.py has few methods used in main notebook to load dataset and other important tools.
  3. Creating_dataset.py.ipynb is my script to convert my images into .h5 formatted dataset. (I've directly uploaded the dataset     but you can create your own by making some minor changes in the code.)
  4. model_rest.py is the script that test our model.
- NOTE : saved model was of 284 MB I'll add the download link here in the future.
+  NOTE : saved model was of 284 MB I'll add the download link here in the future.
  
